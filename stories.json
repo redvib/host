@@ -1,0 +1,30 @@
+{
+  "stories": [
+    {
+      "id": "1",
+      "title": "Story #1",
+      "thumbnail": "static/canva/1.jpeg",
+      "summary": "Click to Watch",
+      "counts": {
+        "plays": 150000,
+        "likes": 2000,
+        "comments": 1100
+      },
+      "parts": {
+        "1": "MFARv-p_cTE",
+        "2": "AuzhmbMajEI",
+        "3": "gHytouGwJI4"
+      },
+      "final_part": "3",
+      "adLocker": {
+        "configVar": "zrFWj_TRG_mnhbhc",
+        "configObject": {
+          "it": 4556132,
+          "key": "0f1c0"
+        },
+        "scriptUrl": "https://d1y0yks1k8t5m5.cloudfront.net/facf854.js",
+        "openFn": "_VR"
+      }
+    }
+  ]
+}
