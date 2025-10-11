@@ -51,6 +51,32 @@
         "scriptUrl": "https://d1y0yks1k8t5m5.cloudfront.net/c0bc058.js",
         "openFn": "_FD"
       }
+    },
+    {
+      "id": "3",
+      "title": "Story #3",
+      "thumbnail": "https://redvib.github.io/host/canva/s1.png",
+      "summary": "Click to Watch",
+      "counts": {
+        "plays": 270000,
+        "likes": 40000,
+        "comments": 1100
+      },
+      "parts": {
+        "1": "M_iOFObJKiQ",
+        "2": "cMjib_Oe0N0",
+        "3": "cGs7Fr-0V-I"
+      },
+      "final_part": "3",
+      "adLocker": {
+        "configVar": "DOStt_jZG_mbLeYc",
+        "configObject": {
+          "it": 4558137,
+          "key": "8a114"
+        },
+        "scriptUrl": "https://d1y0yks1k8t5m5.cloudfront.net/5e9fade.js",
+        "openFn": "_yk"
+      }
     }
   ]
 }
