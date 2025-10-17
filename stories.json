@@ -76,6 +76,31 @@
         },
         "scriptUrl": "https://d1y0yks1k8t5m5.cloudfront.net/5e9fade.js",
         "openFn": "_yk"
+      },
+      {
+      "id": "4",
+      "title": "Story #4",
+      "thumbnail": "https://redvib.github.io/host/canva/t1.png",
+      "summary": "Click to Watch",
+      "counts": {
+        "plays": 260000,
+        "likes": 50000,
+        "comments": 1200
+      },
+      "parts": {
+        "1": "M_iOFObJKiQ",
+        "2": "cMjib_Oe0N0",
+        "3": "cGs7Fr-0V-I"
+      },
+      "final_part": "3",
+      "adLocker": {
+        "configVar": "KyTHM_aWa_RHLihc",
+        "configObject": {
+          "it": 4557127,
+          "key": "10a02"
+        },
+        "scriptUrl": "https://duw03nk63ml3f.cloudfront.net/a028daf.js",
+        "openFn": "_wg"
       }
     }
   ]
